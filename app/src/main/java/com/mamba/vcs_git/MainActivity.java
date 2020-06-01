@@ -16,8 +16,9 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.button).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Log.i("TAG",1+"");
+                Log.i("TAG","11111");
             }
         });
+
     }
 }
